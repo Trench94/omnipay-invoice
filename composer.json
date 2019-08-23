@@ -1,5 +1,5 @@
 {
-    "name": "seymourlabs/omnipay-invoice",
+    "name": "trench94/omnipay-invoice",
     "type": "library",
     "description": "Invoice driver for the Omnipay payment processing library",
     "keywords": [
